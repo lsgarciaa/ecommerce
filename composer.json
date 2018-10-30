@@ -3,7 +3,7 @@
     "authors": [
         {
             "name": "Leo Garcia",
-            "email": "suporte.leo@hotmail.com"
+            "email": "leo_silva_garcia@hotmail.com"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
